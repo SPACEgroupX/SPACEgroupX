@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/SPACEmapX-version0.99-blue.svg)](https://github.com/SPACEgroupX/SPACEgroupX/releases)
 
 
-# SPACEMapX - Spatial Phylogenetic Analysis and Clonal Evolution: MAPping the lethal clone (X) 
+# SPACEMapX - Spatial Phylogenetic Analysis of cancer Clonal Evolution: MAPping the lethal clone (X) 
 
 This guide operates as an explantation of a pipeline, built on inferCNV, to use inferred copy number status to determine cancer clonal dynamics from spatial transcriptomic data of Human tissue.
 
