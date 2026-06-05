@@ -17,9 +17,6 @@ Our particular goal has been identification of the "metastatic clone", defined a
 
 If you need any assistance with running this package, please feel free to contact us via GitHub "issue" messaging
 
-## Pre-requirement
-This pipeline is based on InferCNV v1.22.0 and Seurat v5.0.3, alongisde heavy use of tiydverse v2.0.0 and ggplot2 v3.5.2 with viridis v0.6.5 colour palette. 
-
 # Funding 
 This project was majority funded by Cancer Research UK (CRUK) #C57899/A25812 "Spatial Prostate Assessment and Circulating Environment – The SPACE Study"
 
