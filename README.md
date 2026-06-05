@@ -23,4 +23,6 @@ If you need any assistance with running this package, please feel free to contac
 This pipeline is based on InferCNV v1.22.0 and Seurat v5.0.3, alongisde heavy use of tiydverse v2.0.0 and ggplot2 v3.5.2 with viridis v0.6.5 colour palette. 
 
 # Funding 
-This project was majority funded by Cancer Research UK (CRUK) #C57899/A25812 "Spatial Prostate Assessment and Circulating Environment – The SPACE Study", and conducted by the group of Alastair Lamb at Oxford university and Queen Mary University London (QMUL) Barts Cancer Institute (BCI) alongside the group of Joakim Lundeburg's group based in the SciLifeLab in Sweden.
+This project was majority funded by Cancer Research UK (CRUK) #C57899/A25812 "Spatial Prostate Assessment and Circulating Environment – The SPACE Study"
+
+The work was conducted by the group of Alastair Lamb at Oxford university and Queen Mary University London (QMUL) Barts Cancer Institute (BCI) alongside the group of Joakim Lundeburg's group based in the SciLifeLab in Sweden. The first author's of the associated publication are Mengxiao He, Sandy Figel and Max A. Beesley.
