@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/twitter/follow/lambalastair?style=social&logo=X",alt="follow on Twitter"></a>
 
 
-[![](https://img.shields.io/badge/SPACEmapX-version0.99-blue.svg)](https://github.com/SPACEgroupX/SPACEgroupX/releases)[![](https://img.shields.io/github/last-commit/SPACEgroupX/SPACEmapX.svg)](https://github.com/SPACEgroupX/SPACEgroupX/commits/main)
+[![](https://img.shields.io/badge/SPACEmapX-version0.99-blue.svg)](https://github.com/SPACEgroupX/SPACEgroupX/releases)[![](https://img.shields.io/github/last-commit/SPACEgroupX/SPACEmapX.svg)]
 
 
 # SPACEMapX - Spatial Phylogenetic Analysis and Clonal Evolution: MAPping the lethal clone (X) 
